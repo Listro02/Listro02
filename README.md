@@ -1,16 +1,15 @@
-## Hi there 👋
+#### 💻 About Me
 
-<!--
-**Listro02/Listro02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **한마디** : "Github 자기소개 README.md 한 번 만들어봄."
+- **주요 관심 분야** : 인공지능(AI), 하네스(Harness)
 
-Here are some ideas to get you started:
+#### 📖 Education & Activities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **서울대학교 컴퓨터공학부 25학번**, 2025/02 ~
+
+#### 🛠 Tech Stack
+
+- **Languages:** C, Java, Python
+
+#### 🚀 Projects & Activities
+- 
